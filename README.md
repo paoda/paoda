@@ -1,6 +1,6 @@
 ### Mangwanani! 👋
 
-I'm a University Student at Dalhousie University.
+I'm a University Student at University of Manitoba.
 
 I'm into self-hosting so you can find most of my projects over at: https://git.musuka.dev/paoda
 
@@ -10,7 +10,7 @@ You can check out my:
 * [Gameboy Advance Emulator](https://git.musuka.dev/paoda/zba)
 * [Gameboy Emulator](https://git.musuka.dev/paoda/gb)
 * [CHIP-8 Emulator](https://git.musuka.dev/paoda/chip8)
-* [Mandelbrot Set Viewer](https://git.musuka.dev/paoda/mandelbrot)
+* [Rotaeno Gameplay Stabilizer](https://git.musuka.dev/paoda/rota-stabilizer)
 * [Video Conferencing Project](https://github.com/beatriceo/polyglot)
 * [Dotfiles](https://git.musuka.dev/paoda/dotfiles)
 
